@@ -1,0 +1,17 @@
+spring-cloud-config-client/target/
+spring-cloud-config-client/.classpath
+spring-cloud-config-client/.project
+spring-cloud-config-client/settings
+spring-cloud-config-server/target/
+spring-cloud-config-server/.classpath
+spring-cloud-config-server/.project
+spring-cloud-config-server/settings
+spring-config-server/target/
+spring-config-server/.classpath
+spring-config-server/.project
+spring-config-server/settings
+spring-config-client/target/
+spring-config-client/.classpath
+spring-config-client/.project
+spring-config-client/settings
+
